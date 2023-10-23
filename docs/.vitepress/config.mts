@@ -5,7 +5,6 @@ export default {
   title: "My Awesome Project",
   description: "A VitePress Site",
 	outDir: '../dist',
-	base: './', 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
