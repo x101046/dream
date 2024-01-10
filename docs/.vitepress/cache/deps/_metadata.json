@@ -1,41 +1,98 @@
 {
-  "hash": "6311d0bd",
-  "browserHash": "95c88195",
+  "hash": "3a9d5349",
+  "browserHash": "e04b8539",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "3144eb0e",
+      "fileHash": "52528d82",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "2800a7c6",
+      "fileHash": "76755493",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "a31a608c",
+      "fileHash": "3499556a",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "4b808b76",
+      "fileHash": "67bcafd7",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "c9b92749",
+      "fileHash": "18a38542",
+      "needsInterop": false
+    },
+    "@babylonjs/core": {
+      "src": "../../../../node_modules/@babylonjs/core/index.js",
+      "file": "@babylonjs_core.js",
+      "fileHash": "f0e8f229",
+      "needsInterop": false
+    },
+    "@babylonjs/core/Meshes": {
+      "src": "../../../../node_modules/@babylonjs/core/Meshes/index.js",
+      "file": "@babylonjs_core_Meshes.js",
+      "fileHash": "208c4581",
+      "needsInterop": false
+    },
+    "@babylonjs/core/Maths": {
+      "src": "../../../../node_modules/@babylonjs/core/Maths/index.js",
+      "file": "@babylonjs_core_Maths.js",
+      "fileHash": "9082638f",
+      "needsInterop": false
+    },
+    "@babylonjs/core/Cameras": {
+      "src": "../../../../node_modules/@babylonjs/core/Cameras/index.js",
+      "file": "@babylonjs_core_Cameras.js",
+      "fileHash": "a931d6f7",
+      "needsInterop": false
+    },
+    "@babylonjs/core/Lights": {
+      "src": "../../../../node_modules/@babylonjs/core/Lights/index.js",
+      "file": "@babylonjs_core_Lights.js",
+      "fileHash": "a6e9be85",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-TQFIIZRC": {
-      "file": "chunk-TQFIIZRC.js"
+    "chunk-WWEZVOA4": {
+      "file": "chunk-WWEZVOA4.js"
+    },
+    "chunk-QEPHUICW": {
+      "file": "chunk-QEPHUICW.js"
+    },
+    "chunk-X3GGEY53": {
+      "file": "chunk-X3GGEY53.js"
+    },
+    "chunk-GCXMBAZX": {
+      "file": "chunk-GCXMBAZX.js"
+    },
+    "chunk-U2HXY23P": {
+      "file": "chunk-U2HXY23P.js"
+    },
+    "chunk-SDHG362Y": {
+      "file": "chunk-SDHG362Y.js"
+    },
+    "chunk-KLZSSUNK": {
+      "file": "chunk-KLZSSUNK.js"
+    },
+    "chunk-VAZZWHD2": {
+      "file": "chunk-VAZZWHD2.js"
+    },
+    "chunk-ZYQT2WB4": {
+      "file": "chunk-ZYQT2WB4.js"
+    },
+    "chunk-2US7RHRH": {
+      "file": "chunk-2US7RHRH.js"
     }
   }
 }

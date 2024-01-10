@@ -5,6 +5,9 @@
     "preview": "vitepress preview docs"
   },
   "dependencies": {
-    "vitepress": "^1.0.0-rc.23"
+    "@babylonjs/core": "^6.33.1",
+    "sass": "^1.69.5",
+    "vitepress": "^1.0.0-rc.23",
+    "vue": "^3.3.11"
   }
 }
