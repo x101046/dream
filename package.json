@@ -6,6 +6,8 @@
   },
   "dependencies": {
     "@babylonjs/core": "^6.33.1",
+    "@types/node": "^20.11.1",
+    "fs": "^0.0.1-security",
     "sass": "^1.69.5",
     "vitepress": "^1.0.0-rc.23",
     "vue": "^3.3.11"

@@ -165,7 +165,8 @@ import {
   VectorConverterBlock,
   WebGPUDataBuffer,
   _PrimaryIsoTriangle
-} from "./chunk-WWEZVOA4.js";
+} from "./chunk-EONCXOF4.js";
+import "./chunk-U2HXY23P.js";
 import {
   AbstractMesh,
   CreateGround,
@@ -189,7 +190,6 @@ import {
   _CreationDataStorage,
   _InstancesBatch
 } from "./chunk-X3GGEY53.js";
-import "./chunk-U2HXY23P.js";
 import "./chunk-SDHG362Y.js";
 import {
   WebGLDataBuffer
