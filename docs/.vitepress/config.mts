@@ -16,8 +16,6 @@ export default defineConfig({
 	},
 	head: [['link', { rel: 'icon', href: '/img/favicon.ico' }]],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-		// logo: 'https://s21.ax1x.com/2024/05/28/pk1hLNQ.png',
 		logo: './img/logo.png',
 		search: {
       provider: 'local',
