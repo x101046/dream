@@ -11,6 +11,7 @@ export function getFileThemme(filePath, urlPath) {
 	const rootFilePath = {}
 	const fileList = fs.readdirSync(filePath);
 	fileList.forEach((file) => {
+		if (file.includes('.ts')) {return}
 		const newFilepath = `${filePath}${file}/`
 		const newUrlPath = `${urlPath}${file}/`
 		if (fs.statSync(newFilepath).isDirectory()) { // 文件夹
